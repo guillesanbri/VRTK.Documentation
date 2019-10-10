@@ -46,7 +46,7 @@ We will be using these as a way of testing our `Boolean Action` by changing a `G
 
 Create an empty `GameObject` too, this is where we will set our `CustomBooleanAction` component.
 
-![Create GameObjects](assets/images/CreateGameObjects.PNG)
+![Create GameObjects](assets/images/CreateGameObjects.png)
 
 ### Step 2
 
